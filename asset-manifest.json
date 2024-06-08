@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Projects-Employees-Management-App/static/css/main.d5289b2f.css",
+    "main.js": "/React-Projects-Employees-Management-App/static/js/main.01ecf54f.js",
+    "index.html": "/React-Projects-Employees-Management-App/index.html",
+    "main.d5289b2f.css.map": "/React-Projects-Employees-Management-App/static/css/main.d5289b2f.css.map",
+    "main.01ecf54f.js.map": "/React-Projects-Employees-Management-App/static/js/main.01ecf54f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.01ecf54f.js"
+  ]
+}
